@@ -7,3 +7,5 @@ The weather app is written is react js
 clone the repository
 run npm install to install dependencies
 run npm start to start the application
+https://distracted-swanson-507d3c.netlify.app/
+
