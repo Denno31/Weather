@@ -3,10 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
     "cra-template": "1.1.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-scripts": "4.0.2"
+    "react-scripts": "4.0.2",
+    "react-spinners": "^0.10.6",
+    "weather-icons": "git+https://github.com/erikflowers/weather-icons.git"
   },
   "scripts": {
     "start": "react-scripts start",
